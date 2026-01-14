@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Software Engineering (RPL) student at SMK Budi Luhur<br>🙌 Junior Full-Stack Developer (Front-End & Back-End)<br>💻 Building websites & systems to improve my skills<br>🎮 Developing desktop games using Godot Engine<br>👯 Open to PKL / internship collaborations<br>🤝 Looking for help with YouTube content & AI tools<br>🌱 Currently learning Laravel, Flutter, WordPress, JavaScript, CSS, MySQL<br>💬 Ask me about web dev, game dev, and SMK RPL journey<br>⚡ Fun fact: I love games, anime, and turning ideas into projects
+🧠 Software Engineering (RPL) student at SMK Budi Luhur<br>🙌 Junior Full-Stack Developer (Front-End & Back-End)<br>💻 Building websites & systems to improve my skills<br>🎮 Developing desktop games using Godot Engine<br>👯 Open to PKL / internship collaborations<br>🌱 Currently learning Laravel, Flutter, WordPress, JavaScript, CSS, MySQL<br>💬 Ask me about web dev, game dev, and SMK RPL journey<br>⚡ Fun fact: I love games, anime, and turning ideas into projects
 
 
 ## 🌐 Socials:
